@@ -12,10 +12,10 @@
 
 **Languages and tools that I use:**  
 
-<code><img height="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
-<code><img height="30" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1"></code>
+<code><img height="36" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
+<code><img height="36" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1"></code>
 <code><img height="24" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
-<code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code> 
+<code><img height="36" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code> 
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"></code>
 <code><img height="24" src="https://miro.medium.com/max/982/1*AiTBjfsoj3emarTpaeNgKQ.png"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></code>
@@ -29,11 +29,11 @@
 </div>
 <br/>
 <br/>
+<!--
 <div align="center">
-<a href="https://github.com/aakashsankritya">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakashsankritya"/>
-</a>
+<a href="https://github.com/aakashsankritya"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakashsankritya"/></a>
 </div>
+-->
 
 ### Show some ❤️ by starring some of the repositories!
 
