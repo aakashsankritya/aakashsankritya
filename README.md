@@ -32,9 +32,7 @@
 <div align="center">
 <a href="https://github.com/aakashsankritya"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakashsankritya"/></a>
 </div>
-<div>
-<figure><embed src="https://wakatime.com/share/@aakashsankritya/e19b1112-46ca-429c-8b9c-fac875d40293.svg"></embed></figure>
-</div>
+
 
 ### Show some ❤️ by starring some of the repositories!
 
