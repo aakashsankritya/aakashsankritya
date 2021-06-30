@@ -27,11 +27,6 @@
 <div align="center">
 <a href="https://github.com/aakashsankritya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsankritya&theme=radical&hide=jupyter%20notebook"/></a> 
 </div>
-<br/>
-<br/>
-<div align="center">
-<a href="https://github.com/aakashsankritya"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakashsankritya"/></a>
-</div>
 
 
 ### Show some ❤️ by starring some of the repositories!
