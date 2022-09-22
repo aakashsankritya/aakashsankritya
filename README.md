@@ -4,7 +4,7 @@
 - 🔭 Currently working as Software Engineer at <a href="https://www.uptycs.com/"><img alt="Uptycs" height="18" width="100" src="https://www.uptycs.com/hs-fs/hubfs/Uptycs%20Logo%20Navigation.png?width=450&name=Uptycs%20Logo%20Navigation.png"></a>
 - 💻 Interested in Backend Development
 - 🌱 I’m currently learning GO and Distributed Systems
-- 📫 You can reach out to me at: <img height="18" alt="Akash's Linkdein" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://linkedin.com/in/aakashsankritya">@aakashsankritya</a>
+- 📫 You can reach out to me at: <img height="18" alt="Akash's LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://linkedin.com/in/aakashsankritya">@aakashsankritya</a>
 - 🇮🇳 From <a href="https://goo.gl/maps/e5GUcTj33nuvFLSg7">Patna, India</a>
 
 <a align="left" href="https://github.com/aakashsankritya"><img src = "https://github-readme-stats.vercel.app/api?username=aakashsankritya&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></a>
