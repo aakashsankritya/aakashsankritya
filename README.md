@@ -2,7 +2,6 @@
 ### Hi there I'm Akash Sankritya 👋
 - 💻 Interested in Backend Development
 - 🌱 I’m currently learning GO and Distributed Systems
-- 📫 You can reach out to me at: <img height="18" alt="Akash's LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://linkedin.com/in/aakashsankritya">@aakashsankritya</a>
 - 🇮🇳 From <a href="https://goo.gl/maps/e5GUcTj33nuvFLSg7">Patna, India</a>
 
 <a align="left" href="https://github.com/aakashsankritya"><img src = "https://github-readme-stats.vercel.app/api?username=aakashsankritya&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></a>
