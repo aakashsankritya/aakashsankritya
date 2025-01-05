@@ -1,9 +1,8 @@
 
 ### Hi there I'm Akash Sankritya 👋
-- 💻 Interested in Backend Development
-- 🌱 I’m currently learning GO and Distributed Systems
+- 💻 Backend Developer (Go, Java, Node.js)
 - Developing, breaking, & fixing things @ Scale !!
-- 🇮🇳 From <a href="https://goo.gl/maps/e5GUcTj33nuvFLSg7">Patna, India</a>
+- 🇮🇳 From India
 
 <a align="left" href="https://github.com/aakashsankritya"><img src = "https://github-readme-stats.vercel.app/api?username=aakashsankritya&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></a>
 <br/>
